@@ -1,14 +1,18 @@
 # Ulams Spiral
 
-Ulams Spiral or Prime Spiral is constructed by marking the prime numbers while arranging the positive integers in a spiral.
+Ulams Spiral or Prime Spiral is a graphical way of representing Prime. It is constructed by marking the prime numbers while arranging the positive integers in a spiral.
 
 ## Spiral
 
-[![Spiral](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-11-1.png)](https://www.geeksforgeeks.org/the-ulam-spiral/)
+<p align="center">
+  <img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-11-1.png?raw=true" alt="Spiral"/>
+</p>
 
 ## Ulams Spiral
 
-[![Ulams Spiral](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-2-1.png)](https://www.geeksforgeeks.org/the-ulam-spiral/)
+<p align="center">
+  <img src="https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-2-1.png?raw=true" alt="Ulam's Spiral"/>
+</p>
 
 ## Build Setup
 
