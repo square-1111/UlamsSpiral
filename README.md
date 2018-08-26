@@ -4,11 +4,11 @@ Ulams Spiral or Prime Spiral is constructed by marking the prime numbers while a
 
 ## Spiral
 
-[![Spiral](https://en.wikipedia.org/wiki/File:Ulam_spiral_howto_all_numbers.svg)](https://en.wikipedia.org/wiki/Ulam_spiral)
+[![Spiral](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-11-1.png)](https://www.geeksforgeeks.org/the-ulam-spiral/)
 
 ## Ulams Spiral
 
-[![Ulams Spiral](https://en.wikipedia.org/wiki/File:Ulam_spiral_howto_primes_only.svg)](https://en.wikipedia.org/wiki/Ulam_spiral)
+[![Ulams Spiral](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/UlamSpiral-2-1.png)](https://www.geeksforgeeks.org/the-ulam-spiral/)
 
 ## Build Setup
 
@@ -26,3 +26,7 @@ npm install
 ```
 npm run server
 ```
+
+---
+## Reference
+[Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral)
