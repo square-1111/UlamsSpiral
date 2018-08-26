@@ -17,7 +17,7 @@ Ulams Spiral or Prime Spiral is constructed by marking the prime numbers while a
 npm -v
 ```
 
-* Install all the dependencies for the application using the command:
+* Install dependencies for the application using:
 ```
 npm install
 ```
